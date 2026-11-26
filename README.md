@@ -4,3 +4,4 @@
 - Computer Engineering student
 - (South) Korean
 - For required repository portfolios
+- Restricting LLM usage
